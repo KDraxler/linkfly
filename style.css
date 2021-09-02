@@ -249,8 +249,8 @@ h3{
     .container .content-container{
         width: 98%;
         overflow-y: auto;
-        height: 90%;
-        padding: 20px;
+        height: 98%;
+        padding: 10px;
         zoom: 100%;
     }
     .container .content-container .body{
