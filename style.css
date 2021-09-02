@@ -215,7 +215,7 @@ h3{
         
     
 }
-@media (max-width:2068px) and (orientation: landscape) and (hover: none) and (pointer: coarse){
+@media (max-width:2280px) and (orientation: landscape) and (hover: none) and (pointer: coarse){
     .container .content-container{
         gap: 10px;
     }
