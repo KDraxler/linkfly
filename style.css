@@ -197,6 +197,7 @@ h3{
         height: 90%;
         padding: 20px;
         zoom: 100%;
+        gap: 32px;
     }
     .container .content-container .body{
         /* padding-top: 42px; */
@@ -262,5 +263,8 @@ h3{
     .container .content-container .body .content-body .links p{
         display: none;
     }
-    
+    .container .content-container .body .content-body .links .img a img{
+        width: 32px;
+        height: 32px;
+    }
 }
