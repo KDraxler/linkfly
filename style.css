@@ -253,6 +253,7 @@ h3{
         height: 90%;
         padding: 10px;
         zoom: 100%;
+        gap: 10px;
     }
     .container .content-container .body{
         /* padding-top: -40px; */
