@@ -215,7 +215,7 @@ h3{
         
     
 }
-@media (max-height:1080px) and (orientation: landscape) and (hover: none) and (pointer: coarse){
+@media (min-height:1080px) and (orientation: landscape) and (hover: none) and (pointer: coarse){
     .container .content-container{
         gap: 10px;
     }
@@ -253,7 +253,7 @@ h3{
         height: 90%;
         padding: 10px;
         zoom: 100%;
-        gap: 10px;
+        /* gap: 10px; */
     }
     .container .content-container .body{
         /* padding-top: -40px; */
