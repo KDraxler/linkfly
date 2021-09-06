@@ -69,6 +69,8 @@ h3{
     gap: 42px;
     /* background-color: aqua; */
     position: absolute;
+    overflow-y: auto;
+
 
 }
 /* header */
@@ -108,6 +110,7 @@ h3{
     display: flex;
     flex-direction: column;
     gap: 24px;
+    margin-bottom: 64px;
     /* background-color: chartreuse; */
 }
 .container .content-container .body .content-body .links .img{
@@ -134,7 +137,7 @@ h3{
 .container .content-container .body .content-body .links .desc{
     font-size: 22px;
     line-height: 27px;
-    color: #fff;
+    color: #C2C2C2;
     display: flex;
     flex-direction: column;
     gap: 12px;
