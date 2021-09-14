@@ -30,7 +30,16 @@
 #email{
     background: #D80707;
 }
-
+#themeforest{
+    background: #AC7B48;
+}
+#fiverr{
+    background: #00B22D;
+}
+#fiverr a img{
+    height: 21px;
+    width: 79.43px;
+}
 /* Wes Hop */
 
 body{
@@ -168,6 +177,9 @@ h3{
 }
 
 @media (max-width:1080px) {
+    #fiverr a img{
+        zoom: 60%;
+    }
     h3{
         font-size: 16px;
     }
@@ -215,7 +227,7 @@ h3{
         width: 32px;
         height: 32px;
     }
-        
+    
     
 }
 @media (max-height:1080px) and (orientation: landscape) and (hover: none) and (pointer: coarse){
