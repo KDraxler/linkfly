@@ -195,6 +195,7 @@ h3{
         /* background-color: blueviolet; */
         max-width: 136px;
         gap: 0;
+        margin-bottom: 34px;
     } 
     .container .content-container .body .content-body{
         justify-content: center;
